@@ -1,6 +1,6 @@
 🚀 Completed: Social Media Campaign Performance Tracker (Task 2)
 
-I built an interactive Power BI dashboard to analyze Facebook & Instagram ad campaign performance, focusing on key marketing metrics like impressions, clicks, CTR, spend, and conversions.
+I built an interactive Power BI dashboard to analyze Facebook add campaign performance, focusing on key marketing metrics like impressions, clicks, CTR, spend, and conversions.
 
 📊 What I worked on:
 • Campaign performance analysis
